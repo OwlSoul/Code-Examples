@@ -15,6 +15,6 @@ The task is to compute one layer of Convolutional Neural Network on GPU using CU
 
 ### 01. GetPlaneFromPCL
 This was an entrance micro-challenge for [Yandex Self-Driving Meetup 2019](https://taxi.yandex.ru/action/ysdm). \
-The task is to compute the road plane from the point cloud, such as 50% of the points in the cloud are on or near the plane.
+The task is to compute the road plane from the point cloud, with the condition that 50% of the points in the cloud should be on or near the plane. RANSAC was used to solve the problem.
 
 **Link**: [GetPlaneFromPCL](https://github.com/OwlSoul/GetPlaneFromPCL)
