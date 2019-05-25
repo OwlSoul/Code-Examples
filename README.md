@@ -5,7 +5,7 @@ This is an aggregate repository for all "Code Example" repositories. It contains
 
 ### 01. ConvLayer-CUDA
 This was a challenge in Taiwan's NCTU for Computer Architecture course.
-The task is to compute on layer of CNN Neural Network on GPU using CUDA technology.
+The task is to compute one layer of Convolutional Neural Network on GPU using CUDA technology.
 
 **Link**: [ConvLayer-CUDA](https://github.com/OwlSoul/ConvLayer_CUDA)
 
